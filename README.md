@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Banerjee</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Soham+Banerjee;Artificial+Intelligence+%26+Machine+Learning+-+%F0%9F%A7%A0;Natural+Language+Processing+(NER%2C+Sentiment+Analysis%2C+LLMs)+-+%F0%9F%A7%AE;Data+Science+%26+Model+Deployment+-+%F0%9F%A7%AE;Frontend+Development+(React.js%2C+Streamlit%2C+basic+UI%2FUX)+-+%F0%9F%96%A5;Generative+AI+Tools+(AutoGen%2C+CrewAI)+-+%E2%9A%99" alt="Typing animation" />
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham-project-iem&label=Profile%20views&color=0e75b6&style=flat" alt="soham-project-iem" /> </p>
